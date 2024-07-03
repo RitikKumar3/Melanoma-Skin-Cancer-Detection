@@ -1,5 +1,5 @@
 ## Melanoma Cancer Detection Using CNN
-> We are usiung multiclass classification model using a custom convolutional neural network in TensorFlow. From 2008 to 2018,
+> We are using multiclass classification model using a custom convolutional neural network in TensorFlow. From 2008 to 2018,
 > the annual number of melanoma cases has increased by 53%, partly due to increased UV exposure.
 > Although melanoma is one of the most lethal types of skin cancer, a fast diagnosis can lead to a very high chance of survival.
 
